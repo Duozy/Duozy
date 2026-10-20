@@ -1,3 +1,3 @@
-I AM GOING TO BE A SOFWARE ENGINEER
-This line was created on the oractice branch.
+I AM GOING TO BE A SOFTWARE ENGINEER
+This line was created on the practice branch.
 
